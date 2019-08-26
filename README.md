@@ -1,2 +1,1 @@
-# hello-world
-Test repository on Git Hub
+This is git hub.
